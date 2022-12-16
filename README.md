@@ -14,7 +14,7 @@ Because of the capabilities and performance of the hardware provided by Google, 
 
 To Run The Notebook : 
 
-	* Simply Uploded To Google Colab.
+	* Simply Upload The Notebook To Google Colab.
 	* Make Sure that the execution mode is set to GPU.
 
 The Notebook is Devided into Sections : 
