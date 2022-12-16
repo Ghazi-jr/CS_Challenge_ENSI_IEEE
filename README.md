@@ -6,7 +6,6 @@ The Folder Structure of the project :
 
 	* doc : Contains README File with instructions on How to execute the project.
 	* Scripts :  Notebook Containing the Full implementation of the code.
-	* Paper : Newly constructed Paper.
 
 ------------------
 
