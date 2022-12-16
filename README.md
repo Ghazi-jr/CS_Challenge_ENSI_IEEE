@@ -13,17 +13,17 @@ The Folder Structure of the project :
 Because of the capabilities and performance of the hardware provided by Google, we focused our efforts on implementing the solution in a collaborative environment. (Google Colab) also this enables the users to not manage Complex Dependencies.
 
 To Run The Notebook : 
-*Simply Uploded To Google Colab.
-*Make Sure that the execution mode is set to GPU.
+	* Simply Uploded To Google Colab.
+	* Make Sure that the execution mode is set to GPU.
 
 The Notebook is Devided into Sections : 
-	*Data and Libraries Loading : The Target Data (Annotated Data) is Downloaded From Ieee Portal so Make sure always to copy the zip download url from this website : "https://ieee-dataport.org/open-access/mars-crater-segmentation-datasetand" .  The Original images are scraped from this website : "https://www.mars.asu.edu/data/thm_dir/large/v1.0/".
-	*Execute Model Architecture (This Notebook uses Tensorflow.keras to create the U-Net Model).
-	*Execute Training Utils.
-	*Execute Model Creation.
-	*Training Section : We Trained our models based on the test scenarios specified in the paper.
-	*Crater Counting and Matching.
-	*Last Section is About The optimization Part.
+	* Data and Libraries Loading : The Target Data (Annotated Data) is Downloaded From Ieee Portal so Make sure always to copy the zip download url from this website : "https://ieee-dataport.org/open-access/mars-crater-segmentation-datasetand" .  The Original images are scraped from this website : "https://www.mars.asu.edu/data/thm_dir/large/v1.0/".
+	* Execute Model Architecture (This Notebook uses Tensorflow.keras to create the U-Net Model).
+	* Execute Training Utils.
+	* Execute Model Creation.
+	* Training Section : We Trained our models based on the test scenarios specified in the paper.
+	* Crater Counting and Matching.
+	* Last Section is About The optimization Part.
 
 (New Paper is created after the optimization to showcase our method).
 		
